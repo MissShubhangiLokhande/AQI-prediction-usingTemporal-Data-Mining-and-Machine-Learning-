@@ -1,7 +1,6 @@
 # AQI-prediction-usingTemporal-Data-Mining-and-Machine-Learning- A Case Study
 
-The Air Quality Index (AQI) is a particular number used by government agencies and so this number helps to characterize air quality at a specific location. AQI Scheme transforms weighted values of parameters referred to air pollution into a single number or set of numbers. AQI is used for local and regional air quality management in many metropolitan cities of the worldNaive Bayes classification and Gradient Descent algorithms were applied to get the minimum error with respect to prediction 
-of the air quality index in india.
+The Air Quality Index (AQI) is a particular number used by government agencies and so this number helps to characterize air quality at a specific location. AQI Scheme transforms weighted values of parameters referred to air pollution into a single number or set of numbers. AQI is used for local and regional air quality management in many metropolitan cities of the worldNaive Bayes classification and Gradient Descent algorithms were applied to get the minimum error with respect to prediction of the air quality index in india.
 
 *1.	Data Collection*
 We collected online datafromair quality monitoring sites from 1990 to 2014.The air pollutant data in this study included the concentrations of O3, PM2.5 and SO2.We chose the meteorological factors that would influence the levels of air pollutants, including air temperature, relative humidity, wind speed and direction, wind rainfall, accumulation of precipitation, visibility, dew point, wind direction, pressure and weather conditions.
